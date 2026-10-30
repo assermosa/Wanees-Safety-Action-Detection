@@ -1,0 +1,5 @@
+# Laptop / training environment
+ultralytics>=8.0
+opencv-python>=4.8
+onnxruntime>=1.16
+numpy>=1.24

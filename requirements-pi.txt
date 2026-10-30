@@ -1,0 +1,3 @@
+# Raspberry Pi 5 runtime (install picamera2 + OpenCV via apt, see README)
+onnxruntime>=1.16
+numpy>=1.24
